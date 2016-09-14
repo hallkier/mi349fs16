@@ -3,5 +3,6 @@
 /* Example: adding a background color to the HTML body */
 body {
   /* #ccc is shorthand HEX for a light grey */
-  background: #ffffff;
+  background: #356b59;
+  
 }
