@@ -1,0 +1,19 @@
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background-color:white;
+  
+}
+
+#title{
+    text-align:center;
+    color:red;
+}
+#img{
+    border-radius:25px 25px;
+    
+}
+
+#ingredients{
+    box-shadow:rgba(0,0,0,0.4) 2px 2px 5px 5px inset;
+    background:linear-gradient(white, red);
+}
